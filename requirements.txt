@@ -1,1 +1,6 @@
 streamlit==1.10.0
+plotly
+pandas
+numpy
+requests
+
